@@ -1,3 +1,2 @@
-# Java 8 Project Template
-Single Java 8 Maven Template
-
+# java8-in-action
+Java 8 in action project.
